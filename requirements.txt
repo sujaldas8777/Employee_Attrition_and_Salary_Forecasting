@@ -1,0 +1,14 @@
+huggingface-hub
+imbalanced-learn
+matplotlib
+numpy
+pandas
+regex
+scikit-learn
+scipy
+seaborn
+tokenizers
+tqdm
+transformers
+xgboost
+random forest
