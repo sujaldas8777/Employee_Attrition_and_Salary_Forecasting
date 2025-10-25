@@ -11,4 +11,4 @@ tokenizers
 tqdm
 transformers
 xgboost
-random forest
+RandomForestClassifier
