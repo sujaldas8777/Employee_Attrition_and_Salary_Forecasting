@@ -4,7 +4,7 @@ This repository contains the Attrition Risk Scoring Model, a machine learning–
 
 The model identifies key factors influencing employee retention and assigns an Employee Value Score to each individual, enabling organizations to not only take proactive measures to enhance retention but also predict potential salary hikes and workforce value trends with data-driven precision.
 
-#🧠 Project Overview
+# 🧠 Project Overview
 
 The Attrition Risk Scoring Model leverages machine learning and sentiment analysis to assess the likelihood of employee turnover.
 
