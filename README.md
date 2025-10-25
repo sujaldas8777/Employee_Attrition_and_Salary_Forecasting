@@ -12,18 +12,17 @@ Install all dependencies using:
 pip install -r requirements.txt
 ```
 ### 2. Prepare the Dataset
- - Download the Employee Attrition Dataset from Kaggle.
- - Place it in the project’s data/ folder.
+ - Download the Employee Attrition Dataset.
+ - Place it in the project’s folder.
  - Ensure the dataset is clean and properly formatted (e.g., .csv file).
 ### 3. Run the Complete Pipeline
-To execute the complete pipeline, run the Jupyter Notebook file.  
+To execute the complete pipeline, run the Jupyter Notebook file's.  
 
 The system will:
 - Analyze historical employee data to predict the likelihood of attrition.
 - Perform sentiment analysis on employee feedback using BERT to assess job satisfaction and emotional tone.
 - Compute an Employee Value Score combining performance, sentiment, and attrition risk.
 - Predict salary hike recommendations based on employee potential and retention probability.
-- Generate interactive dashboards and visual insights to assist HR in proactive decision-making.
 
 ## Troubleshooting
 - Ensure all dependencies are correctly installed via requirements.txt.
