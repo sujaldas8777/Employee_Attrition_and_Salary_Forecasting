@@ -4,7 +4,7 @@ This repository contains the Attrition Risk Scoring Model, a machine learning–
 
 The model identifies key factors influencing retention, assigns a risk score and value score to each employee, and helps organizations take proactive measures to improve retention and reward high-performing employees.
 
-# 🧠 Project Overview
+# Project Overview
 
 The Attrition Risk Scoring Model leverages machine learning and sentiment analysis to assess the likelihood of employee turnover.
 
@@ -24,7 +24,7 @@ Generates salary hike recommendations based on employee importance, attrition ri
 
 Provides data visualization, feature importance analysis, and insights using Matplotlib and Seaborn.
 
-# ⚙️ Requirements
+# Requirements
 
 Before running the project, ensure you have Python 3.10 or higher installed.
 
@@ -34,11 +34,11 @@ Install all dependencies using:
 pip install -r requirements.txt
 ```
 
-# 📊 Dataset
+# Dataset
 
 The model uses the Employee Attrition Dataset available on Kaggle.
 
-# 📈 Output
+# Output
 
 Attrition Prediction Report – Employee-wise attrition probability.
 
@@ -50,7 +50,7 @@ Feature Importance Graphs – CRITIC weights and model importance visualizations
 
 Model Performance Metrics – Accuracy, F1-score, ROC-AUC, etc.
 
-# 🧩 Technologies Used
+# Technologies Used
 
 Python 3.10+
 
@@ -62,7 +62,7 @@ Transformers (BERT)
 
 TQDM for progress tracking
 
-# 🏁 Conclusion
+# Conclusion
 
 This model provides a data-driven tool for HR analytics, enabling organizations to:
 
