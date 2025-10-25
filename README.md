@@ -30,7 +30,9 @@ Before running the project, ensure you have Python 3.10 or higher installed.
 
 Install all dependencies using:
 
+```bash
 pip install -r requirements.txt
+```
 
 # 📊 Dataset
 
