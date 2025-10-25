@@ -1,4 +1,4 @@
-# Attrition_Risk_Scoring_Model
+# Attrition Risk Scoring Model
 
 This repository contains the Attrition Risk Scoring Model, a machine learning–based system designed to predict employee attrition, assess employee value, and recommend data-driven salary hikes.
 
@@ -37,6 +37,18 @@ pip install -r requirements.txt
 # 📊 Dataset
 
 The model uses the Employee Attrition Dataset available on Kaggle.
+
+# 📈 Output
+
+Attrition Prediction Report – Employee-wise attrition probability.
+
+Employee Value Scores – 1–10 normalized value ratings.
+
+Salary Hike Recommendations – Percentage hike and new monthly income.
+
+Feature Importance Graphs – CRITIC weights and model importance visualizations.
+
+Model Performance Metrics – Accuracy, F1-score, ROC-AUC, etc.
 
 # 🧩 Technologies Used
 
