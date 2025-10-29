@@ -2,6 +2,12 @@
 
 This README provides a complete guide to setting up and executing the Employee Retention Model, an intelligent data-driven system that predicts employee attrition, analyzes sentiment from feedback, assigns employee value scores, and forecasts potential salary hikes.
 
+#Dataset
+
+The model uses the IBM HR Analytics Employee Attrition Dataset, available on Kaggle:
+🔗 IBM HR Analytics Attrition Dataset – Kaggle
+
+Download the dataset and place it in your project directory before execution.
 ## Step-by-Step Execution Instructions
 ### 1. Install Dependencies
 Before running the project, ensure you have Python 3.10 or higher installed.
